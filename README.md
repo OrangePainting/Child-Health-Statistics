@@ -1,12 +1,3 @@
----
-title: "About This App"
-output: html_document
----
-
-## Author
-
-- **Name:** Krish Konda
-- **Email:** kkond5@illinois.edu
 
 ## Purpose
 
