@@ -1,7 +1,13 @@
-
 ## Purpose
 
 This is an interactive application designed to explore and analyze child health data from the National Health Interview Survey. The app contains a set of health outcomes including asthma, ADHD, learning disabilities, mental health indicators, as well as multiple demographic categories such as sex, age, family structure, and more. This app also visualizaes health survey data, all of which comes from the public domain.
+
+## How to use
+- Extract this repo into a local folder
+- Ensure you have the shiny library installed
+- Ensure you have the ggplot2 library installed
+- Ensure you have the dplyr library installed
+- Run the app.R file 
 
 ## Data
 
